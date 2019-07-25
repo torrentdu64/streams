@@ -1,0 +1,21 @@
+{
+  "streams": [
+    {
+      "title": "Dev mad",
+      "description": "tutos react dev",
+      "id": 1
+    },
+    {
+      "title": "Try userId",
+      "description": "userId is bind by getState()in actions ",
+      "userId": "116166384652757058084",
+      "id": 2
+    },
+    {
+      "title": "navigation",
+      "description": "cross finger",
+      "userId": "116166384652757058084",
+      "id": 3
+    }
+  ]
+}
